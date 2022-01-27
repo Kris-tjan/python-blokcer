@@ -1,0 +1,6 @@
+helll
+jofl
+woik127.0.0.1 www.google.com
+127.0.0.1 google.com
+127.0.0.1 www.vk.com
+127.0.0.1 vk.com
